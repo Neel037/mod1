@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+}
+
+p{
+    color: red;
+    background-color: yellow;
+    width: 50%;
+}
+
+#one{
+    color: blue;
+}
+
+.group{
+    color: black;
+    display: inline;
+    margin: 50px;
+    padding: 10px;
+    border: 1px dotted black;
+    border-radius: 15px;
+
+}
+
+.group:hover{
+    color: white;
+    font-size: 24px;
+}
